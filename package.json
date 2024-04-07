@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt35-looppool",
+  "version": "1.0.0",
+  "description": "ChatGPT3.5 Free共享循环池",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
